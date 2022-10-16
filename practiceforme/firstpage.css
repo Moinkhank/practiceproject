@@ -1,0 +1,32 @@
+#floop{
+   display: flex;
+   
+}
+
+#moin{
+    display: flex;
+   padding-left: 40%;
+    text-justify: newspaper;
+    
+}
+#body{
+    display: flex;
+}
+.image{
+    padding-left: 100px;
+    padding-top: 40px;
+    height: 450px;
+}
+
+.text{
+    padding-top: 200px;
+}
+.para{
+    padding-left : 300px;
+}
+.btn1{
+    padding-left: 50px;
+}
+.btn{
+    padding-left: 20px;
+}
